@@ -1,4 +1,4 @@
-# Nikhil Portfolio — After Photo
+# Nikhil Portfolio
 
 Latest final version, including the approved portrait, updated layout and social icons.
 
